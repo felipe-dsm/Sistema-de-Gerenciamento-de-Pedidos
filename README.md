@@ -44,7 +44,7 @@ O projeto foi desenvolvido em **Java** utilizando os conceitos de **Orientação
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 1. Compile os arquivos Java:
    ```bash
    javac Item.java Pedido.java Restaurante.java
